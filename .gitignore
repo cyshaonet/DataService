@@ -1,0 +1,8 @@
+.idea/
+.pytest_cache/
+.cache/
+.__pycache__/
+*.pyc
+Pipfile
+Pipfile.lock
+venv/

@@ -1,0 +1,18 @@
+{
+	"ExamUid":"NFQ00011_20211008_10-53-43",
+	"PatientCode":"{barcode}",
+	"PatientName":"自动化测试",
+	"PatientGender":"1",
+	"PatientDateOfBirth":"1990/1/1 16:00:00 +00:00",
+	"ExamDate":"{exam_date}",
+	"NumberOfMeasureTotal":"18",
+	"NumberOfMeasureValid":"10",
+	"Stiffness":"7.8",
+	"StiffnessIQR":"15.5",
+	"DeviceSerialNumber":"FQ00011",
+	"CAP":"290",
+	"Operator":"自动化操作员",
+	"ProbeSerialNumber":"",
+	"WorklistUid":"",
+	"Comments":"我是Comments"
+}
