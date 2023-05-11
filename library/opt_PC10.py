@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Date:    2022/11/17
-# 人体成分分析
+# 肺功能PC10
 
 from library.config import PROJECT_ROOT
 import shutil
